@@ -1,6 +1,6 @@
 # YOU CAN USE IN UNITY.
 # Display-Position
- Pointer will display the position of mouse pointer
+ Pointer that displays the position of mouse pointer
 ## How to use
  Import a unitypackage.
  Move a object packed in unitypackage to hierarchy window.
